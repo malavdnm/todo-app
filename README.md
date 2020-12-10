@@ -1,5 +1,5 @@
 # WorkIndia-notesapp
-An API application that can create a Note and display all Notes of a user
+An API application that can create Notes with title and other details and display all Notes of a user
 
 ## Requirements:
 
