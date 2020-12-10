@@ -1,5 +1,5 @@
-# WorkIndia-notesapp
-An API application that can create Notes with title and other details and display all Notes of a user
+# WorkIndia-todo app
+An API application that can take Notes with title, due date and other details and display all Notes of a user while stroing encrypted data in database
 
 ## Requirements:
 
